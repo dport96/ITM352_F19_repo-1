@@ -1,4 +1,4 @@
-# ITM352_F19_repo
+# Repo for ITM 352 Fall 2019 Labs and Assignments
 
 Hello!
 
