@@ -6,10 +6,6 @@ body {
     font-family: 'Open Sans', sans;
     color: darkblue;
     margin: 10px 50px 10px 50px;
-    /* margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 50px;
-    margin-right: 50px; */
     width: 950px;
     background-color: Ivory;
 }
@@ -23,21 +19,18 @@ img {
     float: left;
     width: 300px;
     padding: 1em;
-    vertical-align: top;
 }
 
 .center {
     margin-left: 300px;
     margin-right: 300px;
     padding: 1em;
-    vertical-align: top;
 }
 
 .right {
     float: right;
     width: 300px;
     padding: 1em;
-    vertical-align: top;
 }
 
 ul {
@@ -55,9 +48,9 @@ li {
     margin-right: 75px;
 }
 
-/* .columns {
+.columns {
     float: left;
     padding-right: 15px;
     width: 300px;
-    
-} */
+    vertical-align: top;
+}
